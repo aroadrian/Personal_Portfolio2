@@ -1,3 +1,4 @@
+/* Desktop View */
 @media screen and (max-width: 1400px) {
   #profile{
     height: 83vh;
@@ -7,7 +8,7 @@
     flex-wrap: wrap;
   }
 }
-
+/* Tablet View */
 @media screen and  (max-width: 1200px) {
   #desktop-nav {
     display: none;
@@ -41,7 +42,7 @@
     margin-top: 0;
   }
 }
-
+/* Phone  View */
 @media screen and  (max-width: 600px) {
   #contact, 
   footer{
